@@ -4,7 +4,7 @@ body {
     background-color: #fff;
 }
 
-ul {
+ ul, a {
     text-decoration: none;
     list-style-type: none;
     cursor: pointer;
