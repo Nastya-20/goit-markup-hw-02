@@ -44,8 +44,8 @@ h2 h3 p {
     text-transform: none;
 }
 .page-nav .link:hover, .page-nav .link:focus {
-       color:#404bbf;
-       text-decoration: underline;
+    color:#404bbf;
+    text-decoration: underline;
 }
 .page-nav .link:active {
     color: #404bbf;
@@ -83,7 +83,7 @@ h1 {
 button {
     font-family: "Roboto", sans-serif;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     color: #fff;
     font-weight: 500;
     font-size: 16px;
@@ -169,7 +169,7 @@ button:hover, button:focus{
 }
 
 .page-footer {
-    background: #2e2f42;
+    background-color: #2e2f42;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
