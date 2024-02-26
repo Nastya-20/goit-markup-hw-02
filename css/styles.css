@@ -79,10 +79,8 @@ h1 {
     line-height: 107%;
     letter-spacing: 0.02em;
 }
-
 button {
     font-family: "Roboto", sans-serif;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     color: #fff;
     font-weight: 500;
@@ -99,7 +97,7 @@ button:hover, button:focus{
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
-
+    color: #2e2f42;
 }
 
 .plan-content {
@@ -120,14 +118,18 @@ button:hover, button:focus{
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.img{
     background-color: #FFFFFF;
 }
-
 .head-team {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .team-text {
@@ -151,6 +153,8 @@ button:hover, button:focus{
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .project {
@@ -158,6 +162,7 @@ button:hover, button:focus{
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .card-content {
